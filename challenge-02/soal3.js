@@ -26,7 +26,7 @@ console.log(getAngkaTerbesarKedua(dataAngka))
 // EXPECTED OUTPUT :
 // 8
 
-console.log(getAngkaTerbesarKedua())
+console.log(getAngkaTerbesarKedua(0))
 // EXPECTED OUTPUT :
 // "ERROR : (Kamu jelasin ini eror nya apa dan kenapa)"
 
